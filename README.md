@@ -1,3 +1,3 @@
 # InterLMCampProject
 
-[InterLM第三期地址](https://github.com/InternLM/Tutorial)
+基于 InternLM 的 xxx 项目，欢迎大家也来参加书生大模型实战营项目（http://github.com/internLM/tutorial）
