@@ -4,4 +4,4 @@
 
 ## 模型架构图
 
-<img src="./imgs/architecture.png" height = 600px weight = 400px>
+<img src="./imgs/img.png" height = 600px weight = 400px>
